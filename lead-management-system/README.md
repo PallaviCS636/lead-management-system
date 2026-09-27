@@ -4,6 +4,8 @@ A full-stack Lead Management System for a software/digital marketing company, bu
 
 Built for the Swan Digital Solutions Full Stack Developer technical assignment.
 
+## 🚀 Live Demo - **Frontend:** https://lead-management-system-umber.vercel.app - **Backend API:** https://lead-management-system-pprt.onrender.com - **Demo Login:** admin@demo.com / Demo@1234
+
 ---
 
 ## ✨ Features
